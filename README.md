@@ -1,6 +1,6 @@
-# Инструкция по установке программн
+# Инструкция по установке программ
 
-1) Скачать архив необходимых для работы прогармм по ссылке: https://github.com/cldcdr42/ApplicationCapybara/releases/download/v1.0.0/DataAcqSoft.zip
+1) Скачать архив необходимых для работы прогармм по ссылке: https://github.com/cldcdr42/ApplicationCapybara/releases/download/v1.0.5/DataAcqSoft.zip
 2) Распаковать содержимое папки DataAcqSoft.zip на рабочий стол
 3) Выполнить установку необходимых драйверов и программ:  
    3.1) Перейти в папку "0 - Драйверы и необходимые компоненты" внутри распакованной папки DataAcqSoft  
